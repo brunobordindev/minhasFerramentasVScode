@@ -88,7 +88,7 @@ Markdown Preview Enhanced é uma extensão que fornece muitas funcionalidades ú
 
 #### Material Icon Theme
 
-<img src="https://user-images.githubusercontent.com/72177982/104920431-8823e980-5976-11eb-811f-a770ba5972ba.png" width="25%">
+<img src="https://user-images.githubusercontent.com/72177982/104920431-8823e980-5976-11eb-811f-a770ba5972ba.png" width="20%">
 
 
 Coloca os ícones do Material Design em seu código VS.
