@@ -23,7 +23,16 @@ Lembrando que, todo mês sai novas features de melhorias e novidades para o Vs C
 ### Vamos a primeira dica?! 😊
 <br/>
 
-#### 1º - Bracket Pair Colorizer
+- [Bracket Pair Colorizer](#bracket-pair-colorizer)
+- [Code Runner](#code-runner)
+- [Eva Theme](#eva-theme)
+- [GitLens — Git supercharged](#gitlens-git-supercharged)
+- [Live Share](#live-share)
+- [Markdown Preview Enhanced](#markdown-preview-enhanced)
+- [Material Icon Theme](#material-icon-theme)
+- [Path Intellisense](#path-intellisense)
+- [SSH FS](#ssh-fs)
+#### Bracket Pair Colorizer
 
 ![image](https://user-images.githubusercontent.com/72177982/104917815-b0114e00-5972-11eb-8988-44c8a4c05344.png) 
 
@@ -34,14 +43,14 @@ Captura de tela:
 ![image](https://user-images.githubusercontent.com/72177982/104918114-0aaaaa00-5973-11eb-9b2c-f8cadd158e48.png)
 <br/>
 
-#### 2º - Code Runner
+#### Code Runner
 
 ![image](https://user-images.githubusercontent.com/72177982/104918401-74c34f00-5973-11eb-8e07-0c3f2a3ddfb5.png)
 
 Permite que você edite e execute código em várias  linguagens: C, C ++, Java, JavaScript, PHP, Python, Perl, Perl 6, Ruby, Go, Lua, Groovy, PowerShell, BAT / CMD, BASH / SH, F # Script, F # ( .NET Core), C # Script, C # (.NET Core), VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script, R, AppleScript, Elixir, Visual Basic .NET, Clojure, Haxe, Objective-C , Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Free Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, Less, Fortran e comando personalizado.
 <br/>
 
-#### 3º Eva Theme
+#### Eva Theme
 
 <img src="https://user-images.githubusercontent.com/72177982/104919145-89541700-5974-11eb-9486-227df3d07777.png" width="25%">
 
@@ -53,14 +62,15 @@ Existem 6 estilos no total: Dark, Dark Bold, Dark Italic; Claro, negrito claro, 
 ![image](https://user-images.githubusercontent.com/72177982/104919402-f36cbc00-5974-11eb-8834-aeb855835ab6.png)
 <br/>
 
-#### 4º GitLens — Git supercharged
+#### GitLens - Git supercharged
+ 
 
 ![image](https://user-images.githubusercontent.com/72177982/104919589-421a5600-5975-11eb-845e-cff0fa3fb8d3.png)
 
 GitLens sobrecarrega os recursos do Git integrados ao Visual Studio Code. Ele ajuda você a visualizar a autoria do código rapidamente por meio de anotações de culpa do Git e lentes de código, navegar e explorar repositórios Git perfeitamente, obter insights valiosos por meio de comandos de comparação poderosos e muito mais.
 <br/>
 
-#### 5º Live Share
+#### Live Share
 
 ![image](https://user-images.githubusercontent.com/72177982/104919837-ab9a6480-5975-11eb-96ab-b25dc0bf508e.png)
 
@@ -69,14 +79,14 @@ O Visual Studio Live Share permite que você edite e depure de forma colaborativ
 Além disso, ao contrário da programação tradicional em pares, o Visual Studio Live Share permite que os desenvolvedores trabalhem juntos, mantendo suas preferências pessoais de editor (por exemplo, tema, atalhos de teclado), além de ter seu próprio cursor. Isso permite que você faça uma transição perfeita entre seguir um ao outro e ser capaz de explorar ideias / tarefas por conta própria. Na prática, essa capacidade de trabalhar em conjunto e de forma independente fornece uma experiência de colaboração que é potencialmente mais natural para muitos casos de uso comuns.
 <br/>
 
-#### 6º Markdown Preview Enhanced
+#### Markdown Preview Enhanced
 
 Markdown Preview Enhanced é uma extensão que fornece muitas funcionalidades úteis, como sincronização automática de rolagem, composição matemática, sereia, PlantUML, pandoc, exportação de PDF, bloco de código, redator de apresentação, etc. 
 
 ![image](https://user-images.githubusercontent.com/72177982/104920293-56128780-5976-11eb-9231-d9e3a773af3e.png)
 <br/>
 
-#### 7º Material Icon Theme
+#### Material Icon Theme
 
 <img src="https://user-images.githubusercontent.com/72177982/104920431-8823e980-5976-11eb-811f-a770ba5972ba.png" width="25%">
 
@@ -86,14 +96,14 @@ Coloca os ícones do Material Design em seu código VS.
 ![image](https://user-images.githubusercontent.com/72177982/104920699-f49ee880-5976-11eb-93c4-a0381cfde5f9.png)
 <br/>
 
-#### 8º Path Intellisense
+#### Path Intellisense
 
 ![image](https://user-images.githubusercontent.com/72177982/104920884-421b5580-5977-11eb-949e-cebc391c5b0a.png)
 
 Plug-in de código do Visual Studio que autocompleta nomes de arquivos.
 <br/>
 
-#### 9º SSH FS
+#### SSH FS
 
 ![image](https://user-images.githubusercontent.com/72177982/104921086-a1796580-5977-11eb-92d6-9e6a45ad5218.png)
 
@@ -105,3 +115,4 @@ O Vs Code possui inúmeras extensões que vão te auxiliar a ajudar a aumentar a
 
 ***Até a próxima pessoal!*** <img src="https://github.com/bruno28051988/bruno28051988/blob/main/hey.gif?raw=true" width="45px">
 
+- [Voltar ao topo](#dicas-para-turbinar-seu-vs-code)
