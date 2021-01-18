@@ -23,6 +23,7 @@ Lembrando que, todo mês sai novas features de melhorias e novidades para o Vs C
 #### Vamos a primeira dica?! 😊
 <br/>
 ##### 1º - Bracket Pair Colorizer
+
 ![image](https://user-images.githubusercontent.com/72177982/104917815-b0114e00-5972-11eb-8988-44c8a4c05344.png) 
 
 Esta extensão permite que os colchetes correspondentes sejam identificados com cores. O usuário pode definir quais caracteres combinar e quais cores usar.
@@ -41,7 +42,7 @@ Permite que você edite e execute código em várias  linguagens: C, C ++, Java,
 
 ##### 3º Eva Theme
 
-<img src="https://user-images.githubusercontent.com/72177982/104919145-89541700-5974-11eb-9486-227df3d07777.png" width="50%">
+<img src="https://user-images.githubusercontent.com/72177982/104919145-89541700-5974-11eb-9486-227df3d07777.png" width="25%">
 
 
 Eva Theme é um tema de código de coloração semântica dedicado a tornar sua programação mais confortável. Requer no mínimo a versão 1.12.0 VSCode.
@@ -76,7 +77,7 @@ Markdown Preview Enhanced é uma extensão que fornece muitas funcionalidades ú
 
 ##### 7º Material Icon Theme
 
-<img src="https://user-images.githubusercontent.com/72177982/104920431-8823e980-5976-11eb-811f-a770ba5972ba.png" width="40%">
+<img src="https://user-images.githubusercontent.com/72177982/104920431-8823e980-5976-11eb-811f-a770ba5972ba.png" width="25%">
 
 
 Coloca os ícones do Material Design em seu código VS.
