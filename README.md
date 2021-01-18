@@ -22,6 +22,7 @@ Lembrando que, todo mês sai novas features de melhorias e novidades para o Vs C
 
 #### Vamos a primeira dica?! 😊
 <br/>
+
 ##### 1º - Bracket Pair Colorizer
 
 ![image](https://user-images.githubusercontent.com/72177982/104917815-b0114e00-5972-11eb-8988-44c8a4c05344.png) 
